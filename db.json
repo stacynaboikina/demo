@@ -1,5 +1,5 @@
-[
-    "games": {
+{ "games": [
+    
     {
         "confirmed": true,
         "created_at": 1525971679,
@@ -117,5 +117,6 @@
             "initial_points": 0
         }
     }
-}
+
 ]
+}
