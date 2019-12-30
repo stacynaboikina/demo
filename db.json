@@ -1,35 +1,36 @@
 [
+    "games": {
     {
-        confirmed: true,
-        created_at: 1525971679,
-        honba: 0,
-        id: "1",
-        metadata: {
-            full_names: [
+        "confirmed": true,
+        "created_at": 1525971679,
+        "honba": 0,
+        "id": "1",
+        "metadata": {
+            "full_names": [
                 "Jack",
                 "Bob",
                 "Emily",
                 "Melissa"
             ],
-            hanchan: 1,
-            table: 2,
-            tournament_id: "111"
+            "hanchan": 1,
+            "table": 2,
+            "tournament_id": "111"
         },
-        players: [
+        "players": [
             {
-                name: "Jack N."
+                "name": "Jack N."
             },
             {
-                name: "Bob S."
+                "name": "Bob S."
             },
             {
-                name: "Emily W."
+                "name": "Emily W."
             },
             {
-                name: "Melissa W."
+                "name": "Melissa W."
             }
         ],
-        points: [
+        "points": [
             [
                 5900,
                 -5000,
@@ -51,43 +52,43 @@
                 0
             ]
         ],
-        riichi: 0,
-        round: "E1",
-        settings: {
-            chonbo_type: "111",
-            initial_points: 0
+        "riichi": 0,
+        "round": "E1",
+        "settings": {
+            "chonbo_type": "111",
+            "initial_points": 0
         }
     }, {
-        confirmed: true,
-        created_at: 1525971679,
-        honba: 0,
-        id: "1",
-        metadata: {
-            full_names: [
+        "confirmed": true,
+        "created_at": 1525971679,
+        "honba": 0,
+        "id": "1",
+        "metadata": {
+            "full_names": [
                 "Jack",
                 "Bob",
                 "Emily",
                 "Melissa"
             ],
-            hanchan: 1,
-            table: 2,
-            tournament_id: "1"
+            "hanchan": 1,
+            "table": 2,
+            "tournament_id": "1"
         },
-        players: [
+        "players": [
             {
-                name: "Jack N."
+                "name": "Jack N."
             },
             {
-                name: "Bob S."
+                "name": "Bob S."
             },
             {
-                name: "Emily W."
+                "name": "Emily W."
             },
             {
-                name: "Melissa W."
+                "name": "Melissa W."
             }
         ],
-        points: [
+        "points": [
             [
                 5900,
                 -5000,
@@ -109,11 +110,12 @@
                 0
             ]
         ],
-        riichi: 0,
-        round: "E2",
-        settings: {
-            chonbo_type: "111",
-            initial_points: 0
+        "riichi": 0,
+        "round": "E2",
+        "settings": {
+            "chonbo_type": "111",
+            "initial_points": 0
         }
     }
+}
 ]
